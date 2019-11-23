@@ -1,0 +1,7 @@
+{
+    "Users":[
+        {"firstName":"Maruf Al Alif", "lastName":"Khan", "email":"maruf.alif03@gmail.com", "phone":["01521551573", "01879682420"], "profilePic":"", "address":"Somewhere in the woods"},
+        {"firstName":"Samin", "lastName":"Yaser", "email":"saminyaser.24csedu.016@gmail.com", "phone":["01521551573"], "profilePic":"", "address":"Somewhere in Mohammadpur"},
+        {"firstName":"A.M", "lastName":"Aahad", "email":"a.m.aahad.24csedu.050@gmail.com", "phone":["01521551573", "01879682420"], "profilePic":"", "address":"Somewhere in the Chor"}
+    ]
+}
